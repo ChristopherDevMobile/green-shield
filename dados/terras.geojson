@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Terra Indígena Yanomami",
+        "estado": "RR"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-63.8, 3.8],
+          [-62.5, 3.8],
+          [-62.5, 2.5],
+          [-63.8, 2.5],
+          [-63.8, 3.8]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Parque Indígena do Xingu",
+        "estado": "MT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-54.8,-11.0],
+          [-53.4,-11.0],
+          [-53.4,-12.5],
+          [-54.8,-12.5],
+          [-54.8,-11.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Raposa Serra do Sol",
+        "estado": "RR"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-60.9,4.6],
+          [-59.7,4.6],
+          [-59.7,3.6],
+          [-60.9,3.6],
+          [-60.9,4.6]
+        ]]
+      }
+    }
+  ]
+}
